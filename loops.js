@@ -19,7 +19,7 @@ var s = "done"
 return s
 }
 
-function doWhileLoop(i){
+function doWhileLoop(num){
   
 }
 
